@@ -2,4 +2,12 @@
   export let description;
 </script>
 
-<p>{description}</p>
+<style>
+  p {
+    color: rgb(185, 195, 207);
+  }
+</style>
+
+<p>
+  {@html description}
+</p>
