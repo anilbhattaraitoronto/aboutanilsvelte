@@ -120,6 +120,19 @@ let projects = [
     completed: false,
     year: 2019,
   },
+  {
+    id: "f-m-s-multilang",
+    title: "Posts on French, mandarin and spanish",
+    languages: "HTML, CSS, JavaScript",
+    frameworks: "Svelte, Nodejs, Express, HTML, CSS",
+    thumbnail: "/images/projects/fms.png",
+    description:
+      "An application for writing posts  in French, Mandarin, and Spanish to practice the languages. It uses Nodejs and Express in the backend, Svelte in the front end and is deployed in Nginx server.",
+    repoLocation: "https://github.com/anilbhattaraitoronto/",
+    weblink: "https://french.merohouse.com",
+    completed: false,
+    year: 2019,
+  },
 ];
 
 export default projects;

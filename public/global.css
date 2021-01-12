@@ -14,9 +14,10 @@ body {
 	color: #333;
 	margin: auto;
 	box-sizing: border-box;
-    font-family: Arial;
-    background:rgb(0,100,200);
-    line-height: 1.5;
+    font-family: Verdana;
+    background:rgb(7, 36, 65);
+    line-height: 1.6;
+
 }
 
 a {
@@ -76,6 +77,6 @@ button:focus {
     body{
         width:100%;
         margin: auto;
-        font-size: 108%;
+        font-size: 115%;
     }
 }

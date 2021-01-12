@@ -4,6 +4,7 @@
     font-size: 0.9em;
     color: #aaa;
     opacity: 0.8;
+    margin-top: 40px;
   }
 </style>
 

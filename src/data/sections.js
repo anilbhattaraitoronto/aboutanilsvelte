@@ -1,14 +1,16 @@
 let sections = [
   {
+    icon:`⏳`,
     title: "Projects",
     route: "#/projects",
     thumbnail:
       "https://images.unsplash.com/photo-1507992781348-310259076fe0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
     altText: "Toronto Skyline",
     description:
-      ` <a href="https://github.com/anilbhattaraitoronto" style="color:white;" target="_blank" >My github account </a> stores most of my project repositories.  Projects include basic console applications, full stack applications using backend and frontend frameworks, and setting up of servers with Nginx in Linux virtual machines (or VPS).`,
+      ` <a href="https://github.com/anilbhattaraitoronto" style="color:white;" target="_blank" rel="noreferrer" >My github account </a> stores most of my project repositories.  Projects include basic console applications, full stack applications using backend and frontend frameworks, and setting up of servers with Nginx in Linux virtual machines (or VPS).`,
   },
   {
+    icon:`🛠`,
     title: "Skills",
     route: "#/skills",
     thumbnail:
@@ -18,6 +20,7 @@ let sections = [
       `I have a wide range of frontend, backend, and devOps skills. Those include HTML, CSS, Javascript, and Python, frontend and backend frameworks (React, Svelte, Express, Django), and setting up of servers with Nginx.`,
   },
   {
+      icon:`🏫`,
     title: "Education",
     route: "#/education",
     thumbnail:
@@ -27,6 +30,7 @@ let sections = [
       `I got my doctoral degree from University of Toronto in 2019. My thesis explored the complexity of building and maintaining smallholder organic farms. My case study was drawn from Nepal's Chitwan Valley. I also have several masters degrees in different disciplines.`,
   },
   {
+      icon:`📝`,
     title: "Writings",
     route: "#/writings",
     thumbnail:
